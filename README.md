@@ -1,27 +1,6 @@
 
 # Getting Started with Create React App
 
-
-## Usefull comands to start the App:
-
-To enter Docker:
-### `docker-compose exec backend sh`
-
-Flask db migration(react-crud):
-
-### `python manage.py db init`
-### `python manage.py db migrate`
-### `python manage.py db upgrade`
-
-
-Django db migration(admin, main):
-
-### `python manage.py makemigration`
-### `python manage.py migrate`
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
