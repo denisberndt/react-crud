@@ -9,15 +9,15 @@ To enter Docker:
 
 Flask db migration(react-crud):
 
-### `python manager.py db init`
-### `python manager.py db migrate`
-### `python manager.py db upgrade`
+### `python manage.py db init`
+### `python manage.py db migrate`
+### `python manage.py db upgrade`
 
 
 Django db migration(admin, main):
 
-### `python manager.py makemigration`
-### `python manager.py migrate`
+### `python manage.py makemigration`
+### `python manage.py migrate`
 
 
 
